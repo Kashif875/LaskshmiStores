@@ -1,0 +1,38 @@
+
+
+Menu Bar
+
+
+
+Completed
+
+Splash
+Login
+Otp
+Dashboard
+More
+Legal Info
+Privacy Policy
+Make A Suggestions
+Profile
+Wishlist
+Notificaiton
+Order History
+Order History Detail
+Shipping Address
+Edit Shipping Address
+Edit Profile
+Search
+Home
+See ALl Product
+Product Detail
+Write a Review
+Before Afer
+Reviews
+Addiotional Info
+Cart
+Checkout
+Order Success
+Sort
+Filter
+Read More
